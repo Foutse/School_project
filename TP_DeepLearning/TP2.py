@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 21 04:17:22 2018
-
-@author: FOUTSE
 """
 
 import matplotlib as mpl

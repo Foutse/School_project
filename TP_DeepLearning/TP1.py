@@ -147,26 +147,3 @@ for epoch in range(numEp):
 #print("3")
      
 print("{}".format(accuracy2(Wh, bh, Wy, by, X_test, Y_test)))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

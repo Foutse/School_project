@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 16 13:43:33 2019
-
-@author: LENOVO
 """
 
 import numpy as np
@@ -313,5 +311,3 @@ plt.scatter(pointsclusters[:,0], pointsclusters[:,1], c=range(10),marker = '+', 
 
 plt.colorbar(ticks=range(10))
 plt.show()
-
-

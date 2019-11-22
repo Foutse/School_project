@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 23 12:30:16 2019
-
-@author: LENOVO
 """
 
 import pandas as pd
@@ -397,21 +395,3 @@ weights[3,:] = 1.0/4.0
 for i in range(4):
  blue_scores[i] = nltk.translate.bleu_score.corpus_bleu(references, predictions, weights = (weights[i,0], weights[i,1], weights[i,2], weights[i,3]) )
  print("blue_score - "+str(i)+"="+str( blue_scores[i]))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

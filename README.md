@@ -1,1 +1,2 @@
 # School_project
+Here we have uploaded some interesting projects done during my master's studies on information and data processing. The projects are either a group or individual project, a practical done in classe, or a project that was part of a lecture which I tried to develop further in a different context. This is not all the projects we hade to do, but the once here touches almost all the areas we explored.
